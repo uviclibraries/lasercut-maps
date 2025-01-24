@@ -11,7 +11,7 @@ nav_order: 1
 ## Why Bathymetry? 
 
 [Bathymetry Definition:](https://oceanservice.noaa.gov/facts/bathymetry.html){:target="_blank"} Bathymetry is the study and visualization of the ‘beds’ or ‘floors’ of bodies of water. A bathymetric map of Victoria Harbour would show contours of the ocean floor and relative water depth. It can be thought of as underwater topography. Contour maps are a way of displaying elevation change in a 2D format. Areas of equal elevation are connected by concentric lines at set intervals. The example below shows 500 metre elevation increases. 
-
+<img src="images/contour.png" style="width:250px;" alt="Contour map">
 
 [Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
 
