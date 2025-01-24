@@ -1,4 +1,4 @@
-# Lasercutting Maps Workshop...
+# Lasercutting Maps Workshop
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/lasercut-mapping
