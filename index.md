@@ -10,24 +10,19 @@ nav_order: 1
 
 ## Why Bathymetry? 
 
-[Bathymetry Definition:](https://oceanservice.noaa.gov/facts/bathymetry.html){:target="_blank"} Bathymetry is the study and visualization of the ‘beds’ or ‘floors’ of bodies of water. A bathymetric map of Victoria Harbour would show contours of the ocean floor and relative water depth. It can be thought of as underwater topography. Contour maps are a way of displaying elevation change in a 2D format. Areas of equal elevation are connected by concentric lines at set intervals. The example below shows 500 metre elevation increases.<br> 
+[Bathymetry Definition:](https://oceanservice.noaa.gov/facts/bathymetry.html){:target="_blank"} Bathymetry is the study and visualization of the ‘beds’ or ‘floors’ of bodies of water. A bathymetric map of Victoria Harbour would show contours of the ocean floor and relative water depth. It can be thought of as underwater topography. Contour maps are a way of displaying elevation change in a 2D format. Areas of equal elevation are connected by concentric lines at set intervals. The example below shows 500 metre elevation increases. In addition to being useful for navigation, planning, and visualization, contour maps can also be quite beautiful and make a good subject for artistic mapping.<br> 
 <img src="images/contour.png" style="width:250px;" alt="Contour map">
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+[QGIS](https://qgis.org/) is a geographic information system software that is free and open-source. It supports viewing, editing, printing, and analysis of geospatial data in a range of data formats.
+[Inkscape](https://inkscape.org/) is a free and open source design tool for making and editing vector graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
+1. Generate and edit vector contours from raster datasets in QGIS. 
+2. Create a bathymetric map of an area of your choice, including placenames and/or street data.
+3. Convert a DXF file into a SVG suitable for the laser cutter in Inkscape. 
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
