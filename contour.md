@@ -6,3 +6,4 @@ parent: Workshop Activities
 ---
 
 ## Contour Extraction
+With the merged raster appropriately coloured, we can generate elevation contours from it. This will be the basis for the laser cut .SVG files. From the Raster menu, navigate to ‘Extraction’ and ‘Contour’. <br>
