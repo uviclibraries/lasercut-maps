@@ -22,16 +22,16 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br>You will see that all contour lines with values greater than zero are now highlighted in yellow on the map.<br>
 <img src="images/selected.png" style="width:350px;" alt="contours selected">
 <br>Right-click the layer in the list. Click ‘toggle editing’. <br>
-<img src="images/editing.png" style="width:250px;" alt="contours selected">
+<img src="images/editing.png" style="width:250px;" alt="QGIS toggle editing">
 <br>From the toolbar at the top of the window, click ‘delete selected’. Confirm your selection in the pop-up. If your file contains outlying squares like these:<br>
-<img src="images/outliers.png" style="width:350px;" alt="contours selected">
+<img src="images/outliers.png" style="width:350px;" alt="QGIS delete selected features">
 <br>They will need to be removed, as they will complicate the rest of the data editing process. If there are no outliers, proceed to the ‘saving edits’ step. If your dataset contains outliers,  keep layer editing enabled, open the ‘select features’ menu, and open the ‘select by freehand’ tool.<br>
-<img src="images/freehand.png" style="width:250px;" alt="contours selected">
+<img src="images/freehand.png" style="width:250px;" alt="QGIS select by freehand">
 <br>Work slowly to ensure necessary features are not selected accidentally. If that happens, click the ‘Remove selection’ tool to clear all features from selection. <br>
-<img src="images/remove.png" style="width:250px;" alt="contours selected">
+<img src="images/remove.png" style="width:250px;" alt="QGIS remove selection">
 <br>Unnecessary features can be deleted the same way the elevation lines above 0m were deleted. When you have all extraneous features removed, save all edits to the layer and switch editing off (the single pencil icon next to the save tool).<br>
-<img src="images/layer_save.png" style="width:250px;" alt="contours selected">
-Now is a good time to save your project. 
+<img src="images/layer_save.png" style="width:250px;" alt="QGIS end editing">
+<br>Now is a good time to save your project. <br>
 <br>Reopen the contour layer’s attribute table. Open the ‘select by attribute’ tool. Input “ELEV” = 0. With the selection made, right-click the layer and navigate to ‘save selected features as’. Change the format from an ESRI shapefile to an AutoCAD DXF. Save the file to your project folder. You may save it to a new subfolder for the final design layers. A popup will appear after saving the file. Click ‘Add Layer’ to proceed. These layers are being added only for visualization purposes and will not need to be manipulated further.<br>
 <img src="images/dxf_save.png" style="width:250px;" alt="contours selected">
 <br>Repeat this process for “ELEV” = -50, -100, and -150, remembering to clear the selection between groups.<br>
