@@ -24,7 +24,7 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br>Right-click the layer in the list. Click ‘toggle editing’. <br>
 <img src="images/editing.png" style="width:250px;" alt="contours selected">
 <br>From the toolbar at the top of the window, click ‘delete selected’. Confirm your selection in the pop-up. If your file contains outlying squares like these:<br>
-<img src="images/outliers.png" style="width:250px;" alt="contours selected">
+<img src="images/outliers.png" style="width:350px;" alt="contours selected">
 <br>They will need to be removed, as they will complicate the rest of the data editing process. If there are no outliers, proceed to the ‘saving edits’ step. If your dataset contains outliers,  keep layer editing enabled, open the ‘select features’ menu, and open the ‘select by freehand’ tool.<br>
 <img src="images/freehand.png" style="width:250px;" alt="contours selected">
 <br>Work slowly to ensure necessary features are not selected accidentally. If that happens, click the ‘Remove selection’ tool to clear all features from selection. <br>
@@ -37,7 +37,7 @@ Now is a good time to save your project.
 <br>Repeat this process for “ELEV” = -50, -100, and -150, remembering to clear the selection between groups.<br>
 <img src="images/deselect_att.png" style="width:250px;" alt="contours selected">
 <br>If there are no features available for a depth of -150, work backwards by 10m increments until features are selected successfully. If you would like to experiment with selecting different depth measurements, you are welcome to. Ideally, limit it to three or four layers plus the 0m layer. Deselect the original contours from the layers menu to see what the extracted layers look like on their own. Here is my example. <br>
-<img src="images/contours_final.png" style="width:250px;" alt="contours selected">
+<img src="images/contours_final.png" style="width:350px;" alt="contours selected">
 <br>Now is a good time to save your project. 
 
 
