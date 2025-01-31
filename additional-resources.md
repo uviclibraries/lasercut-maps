@@ -7,6 +7,7 @@ nav_order: 10
 
 ## Laser Cut Maps Resources
 [More GIS information & geospatial data](https://www.uvic.ca/library/locations/home/map/gis/index.php)
+[QGIS training manual](https://docs.qgis.org/3.34/en/docs/training_manual/index.html)
 
 ## Acknowledgements
 
