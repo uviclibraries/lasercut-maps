@@ -29,7 +29,19 @@ Open the Inkscape program and select ‘new document’ from the startup menu. F
 <img src="images/trace.png" style="width:250px;" alt="Inkscape trace bitmap tool">
 <br>The tool will open in the right-side panel. Ensure the label layer is selected in the Objects menu. Bitmap trace should default to single scan mode. A brightness cutoff of around 0.66 should be effective. When the preview looks good, click ‘Apply’. <br>
 <img src="images/trace2.png" style="width:250px;" alt="Inkscape trace bitmap tool">
-This converts the .png image of labels into a path format suitable for laser engraving. Navigate back to the layers tab and turn visibility off for the original screenshot, while turning it on for the 0m contour layer. Position the labels accurately on the 0m layer, using the QGIS project for reference. With this complete, set the fill of the label layer to solid, the stroke to none, and the colour to 0 in R, G, and B with 100% opacity. Do not edit the line weight.
+<br>This converts the .png image of labels into a path format suitable for laser engraving. Navigate back to the layers tab and turn visibility off for the original screenshot, while turning it on for the 0m contour layer. Position the labels accurately on the 0m layer, using the QGIS project for reference. With this complete, set the fill of the label layer to solid, the stroke to none, and the colour to 0 in R, G, and B with 100% opacity. Do not edit the line weight.<br>
+<img src="images/is_colours.png" style="width:250px;" alt="Inkscape line colour settings"><br>
+## Inkscape streets formatting
+If you used street data, import it into the 0m contour layer with the same settings used to bring in the contour files. Move the layer around to match up with the 0m contours until it resembles the QGIS files (use QGIS as a reference). See example below (the images show Inkscape, then Q).<br>
+<img src="images/is_sample.png" style="width:350px;" alt="Inkscape streets example"><br>
+<img src="images/streets.png" style="width:350px;" alt="QGIS streets example">
+<br>The street layer should be formatted with no fill and flat colour for the stroke. The RGB values should all be set to 0, and the line width should be 0.1 mm.<br>
+## Additional Text
+If there is any other text you would like to add to your map, use the text tool from the left side of the window.<br>
+<img src="images/is_text.png" style="width:250px;" alt="Inkscape text tool">
+<br>Like the labels and streets, text also has to be contained within the 0m contours. Right-click the text box you created to open its edit menu. Alter the font to your liking and ensure that the fill of the text is solid, the stroke is set to none, and the colour is set to 0 for the R, G, and B values with 100% opacity. Do not edit the line weight.  When you are happy with the labels/streets and any added text, save this final layer as a .SVG.<br> 
+## Efficent formatting
+With your layers all formatted appropriately, the last step is to organize them as a single file for submission to the DSC portal.  Download the DSC’s Full Sheet template here. Open it as a new document in Inkscape. Note that the real-life dimensions of the file are 59cm x 29cm. With that in mind, import your 0m SVG file. 
 
 
 
