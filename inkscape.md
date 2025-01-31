@@ -24,11 +24,11 @@ Open the Inkscape program and select ‘new document’ from the startup menu. F
 <br>With the 0m contour file open, use the Import tool to bring in the screenshot of the place names if you used them. If you used street data to create features for engraving, skip these steps. Ensure the image render mode is set to Smooth.<br>
 <img src="images/is_png.png" style="width:250px;" alt="Inkscape open PNG">
 <br>In the Layers pane, turn off visibility for the contour line layer, leaving the placenames visible.<br> 
-<img src="images/layers.png" style="width:250px;" alt="Inkscape hide layer">
+<img src="images/is_layers.png" style="width:250px;" alt="Inkscape hide layer">
 <br>From the upper menu, open the Path tab and select Trace Bitmap. <br>
-<img src="images/trace.png" style="width:250px;" alt="Inkscape trace bitmap tool">
+<img src="images/is_trace.png" style="width:250px;" alt="Inkscape trace bitmap tool">
 <br>The tool will open in the right-side panel. Ensure the label layer is selected in the Objects menu. Bitmap trace should default to single scan mode. A brightness cutoff of around 0.66 should be effective. When the preview looks good, click ‘Apply’. <br>
-<img src="images/trace2.png" style="width:250px;" alt="Inkscape trace bitmap tool">
+<img src="images/is_trace2.png" style="width:250px;" alt="Inkscape trace bitmap tool">
 <br>This converts the .png image of labels into a path format suitable for laser engraving. Navigate back to the layers tab and turn visibility off for the original screenshot, while turning it on for the 0m contour layer. Position the labels accurately on the 0m layer, using the QGIS project for reference. With this complete, set the fill of the label layer to solid, the stroke to none, and the colour to 0 in R, G, and B with 100% opacity. Do not edit the line weight.<br>
 <img src="images/is_colours.png" style="width:250px;" alt="Inkscape line colour settings"><br>
 ## Inkscape streets formatting
