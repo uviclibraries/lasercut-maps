@@ -45,6 +45,6 @@ With your layers all formatted appropriately, the last step is to organize them 
 <img src="images/is_svg.png" style="width:250px;" alt="Inkscape open SVG">
 <br>Arrange the file so that the top and left edges of the square you drew around the map are aligned with the edges of the template. Size it as desired.<br> 
 <img src="images/is_format2.png" style="width:350px;" alt="Layer formatting">
-Import the remaining SVG layers. Ensure they are the same size as the 0m layer. Arrange them on the template, leaving small gaps between the squares. 
-<img src="images/is_format2.png" style="width:350px;" alt="Layer formatting">
+<br>Import the remaining SVG layers. Ensure they are the same size as the 0m layer. Arrange them on the template, leaving small gaps between the squares.<br>
+<img src="images/is_format.png" style="width:350px;" alt="Layer formatting">
 <br> When all your layers are arranged, save the SVG file as “yourname_place” or some similar title. 
