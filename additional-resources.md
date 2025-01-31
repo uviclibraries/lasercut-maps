@@ -5,8 +5,8 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
-
+## Laser Cut Maps Resources
+[More GIS information & geospatial data](https://www.uvic.ca/library/locations/home/map/gis/index.php)
 
 ## Acknowledgements
 
