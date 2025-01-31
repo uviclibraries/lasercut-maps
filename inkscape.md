@@ -41,7 +41,10 @@ If there is any other text you would like to add to your map, use the text tool 
 <img src="images/is_text.png" style="width:250px;" alt="Inkscape text tool">
 <br>Like the labels and streets, text also has to be contained within the 0m contours. Right-click the text box you created to open its edit menu. Alter the font to your liking and ensure that the fill of the text is solid, the stroke is set to none, and the colour is set to 0 for the R, G, and B values with 100% opacity. Do not edit the line weight.  When you are happy with the labels/streets and any added text, save this final layer as a .SVG.<br> 
 ## Efficent formatting
-With your layers all formatted appropriately, the last step is to organize them as a single file for submission to the DSC portal.  Download the DSC’s Full Sheet template here. Open it as a new document in Inkscape. Note that the real-life dimensions of the file are 59cm x 29cm. With that in mind, import your 0m SVG file. 
-
-
-
+With your layers all formatted appropriately, the last step is to organize them as a single file for submission to the DSC portal.  Download the [DSC’s Full Sheet template here](https://drive.google.com/file/d/16DpKhRBPVkZwpf0v9KeHywDj_KNwX1TF/view?usp=drive_link){:target="_blank"}. Open it as a new document in Inkscape (File > Open). Note that the real-life dimensions of the file are 59cm x 29cm. With that in mind, import your 0m SVG file (File > Import). The import should default to including the SVG as an object in the new file. If it does not, change the setting accordingly.<br>
+<img src="images/is_svg.png" style="width:250px;" alt="Inkscape open SVG">
+<br>Arrange the file so that the top and left edges of the square you drew around the map are aligned with the edges of the template. Size it as desired.<br> 
+<img src="images/is_format2.png" style="width:350px;" alt="Layer formatting">
+Import the remaining SVG layers. Ensure they are the same size as the 0m layer. Arrange them on the template, leaving small gaps between the squares. 
+<img src="images/is_format2.png" style="width:350px;" alt="Layer formatting">
+<br> When all your layers are arranged, save the SVG file as “yourname_place” or some similar title. 
