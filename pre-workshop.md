@@ -10,7 +10,7 @@ This workshop is primarily hands-on practice with QGIS and Inkscape in order to 
 - OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <br>Please install the Inkscape and QGIS programs on your computer prior to starting the workshop.
-            -  [QGIS download](https://qgis.org/download/){:target="_blank"}
+            -  [QGIS download](https://qgis.org/download/) {:target="_blank"}
             
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
