@@ -5,6 +5,6 @@ nav_order: 2
 ---
 ## UPDATE BELOW: Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with QGIS and Inkscape in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:<br>
-<br>Please install the Inkscape and QGIS programs on your computer prior to starting the workshop. [Download QGIS here](https://qgis.org/download/){:target="_blank"}
+<br>Please install the Inkscape and QGIS programs on your computer prior to starting the workshop. <br>[Download QGIS here](https://qgis.org/download/){:target="_blank"}<br> <br>https://inkscape.org/release/0.92.4/windows/64-bit/<br> 
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
