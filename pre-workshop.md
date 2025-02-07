@@ -4,11 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with QGIS and Inkscape in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
-
-**UPDATE BELOW: 5-10 minutes.**<br>
-- OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+This workshop is primarily hands-on practice with QGIS and Inkscape in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:<br>
 <br>Please install the Inkscape and QGIS programs on your computer prior to starting the workshop. [Download QGIS here](https://qgis.org/downloads/QGIS-OSGeo4W-3.40.3-1.msi){:target="_blank"}
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
