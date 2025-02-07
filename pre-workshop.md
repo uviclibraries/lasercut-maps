@@ -13,5 +13,5 @@ This workshop is primarily hands-on practice with QGIS and Inkscape in order to 
 <br> For Mac:<br>
 <br> <img src="images/q_install2.png" style = "width:300px;" alt="QGIS installer"><br> 
 <br>[Download Inkscape here](https://inkscape.org/release/0.92.4/windows/64-bit/){:target="_blank"}<br> 
-
+<br> <img src="images/is_install.png" style="width:300px;" alt="Inkscape Installer"><br>
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
