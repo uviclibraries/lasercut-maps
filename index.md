@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="bamfield.jpg" style="float:right;width:180px;" alt="image description">
+<img src="images/bamfield.jpg" style="float:right;width:180px;" alt="image description">
 
 # Laser Cut Bathymetry Mapping
 
