@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
+## Pre-Workshop Videos & Activities
 Please note that it is recommended that you complete the [Intro to Design with Laser Cutting workshop](https://uviclibraries.github.io/laser/){:target="blank"} and review [Introduction to Geospatial with QGIS](https://docs.google.com/document/d/1GAnZT7jD-cF-uki0BbqqCYNpYrpRjrHV0TsoZDTLhQM/edit?tab=t.0){target="blank"} before starting this tutorial. <br>
 <br>This workshop is primarily hands-on practice with QGIS and Inkscape in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 Please install the Inkscape and QGIS programs on your computer prior to starting the workshop.
