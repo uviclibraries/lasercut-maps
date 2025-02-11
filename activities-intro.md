@@ -13,4 +13,4 @@ Please review the following [Introductory Slides](https://docs.google.com/presen
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
 **UPDATE**
-[NEXT STEP: Data Downloads]([basics-data-cleaning.html](https://uviclibraries.github.io/lasercut-maps/data-downloads.html)){: .btn .btn-blue }
+[NEXT STEP: Data Downloads]([basics-data-cleaning.html](https://uviclibraries.github.io/lasercut-maps/data-downloads.html){: .btn .btn-blue }
