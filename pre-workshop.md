@@ -9,7 +9,7 @@ Please note that it is recommended that you complete the [Intro to Design with L
 Please install the Inkscape and QGIS programs on your computer prior to starting the workshop.
 <br>[Download QGIS here](https://qgis.org/download/){:target="_blank"}
 <br> For Windows:<br>
-<br><img src="images/q_install.png" style="float:right;width:400px;" alt="QGIS installer"><br>
+<br><img src="images/q_install.png" style="width:400px;" alt="QGIS installer"><br>
 <br>Be sure to download the Long Term version.<br>
 <br> For Mac:<br>
 <br> <img src="images/q_install2.png" style = "width:400px;" alt="QGIS installer"><br> 
