@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="bamfield.jpg" style="float:right;width:180px;" alt="image description">
 
 # Laser Cut Bathymetry Mapping
 
