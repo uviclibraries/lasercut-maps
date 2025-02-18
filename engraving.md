@@ -36,7 +36,7 @@ If you are creating a map that includes an urban area, you may be interested in 
 <img src="images/quickosm2.png" style="width:250px;" alt="QGIS QuickOSM">
 <br>From the *‘Quick Query’* tab of the OSM menu, fill out all parameters to match the image below:<br>
 <img src="images/inputs.png" style="width:250px;" alt="QGIS QuickOSM settings">
-<br>Ensure the extent is set to* ‘layer extent’*, with the Contours layer selected beside it. The key qualifiers also must be set to **‘OR’**.  When all parameters are filled out, select *‘run query’*. Uncheck the highway point layer in the layers panel. Your map should now look something like this.<br>
+<br>Ensure the extent is set to *‘layer extent’*, with the Contours layer selected beside it. The key qualifiers also must be set to **‘OR’**.  When all parameters are filled out, select *‘run query’*. Uncheck the highway point layer in the layers panel. Your map should now look something like this.<br>
 <img src="images/output.png" style="width:350px;" alt="streets">
 <br>Right-click the street layer and select *‘export’*, then *‘save features as’*. Save the street layer to your project folder as a DXF file.<br>
 ## Congratulations! 
