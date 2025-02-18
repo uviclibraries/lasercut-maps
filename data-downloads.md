@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 
 ## Data Downloads
-To get started, navigate to the [Canadian Hydrographic Service Bathymetric Data Portal:](https://data.chs-shc.ca/dashboard/map){:target="_blank"}. Accept the terms of use and log in as a guest. The initial view shows all regions where bathymetric data is available. It is available in 100m and 10m resolutions. <br>
+To get started, navigate to the [Canadian Hydrographic Service Bathymetric Data Portal](https://data.chs-shc.ca/dashboard/map){:target="_blank"}. Accept the terms of use and log in as a guest. The initial view shows all regions where bathymetric data is available. It is available in 100m and 10m resolutions. <br>
 <img src="images/canada.png" style="width:300px;" alt="Canada map"> 
 <br>We will be using 10m data for this project, so **deselect** the 100m and Intensity layers from the layer table on the left. Zoom in to where the 10m grid is visible.<br>
 <img src="images/10m.png" style="width:350px;" alt="10 meter grid">
