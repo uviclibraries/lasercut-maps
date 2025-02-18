@@ -12,5 +12,4 @@ Please review the following [Introductory Slides](https://docs.google.com/presen
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
-**UPDATE**
 [NEXT STEP: Data Downloads]([data-downloads.html](https://uviclibraries.github.io/lasercut-maps/data-downloads.html){: .btn .btn-blue }
