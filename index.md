@@ -22,9 +22,13 @@ nav_order: 1
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
-1. Generate and edit vector contours from raster datasets in QGIS. 
-2. Create a bathymetric map of an area of your choice, including placenames and/or street data.
-3. Convert a DXF file into a SVG suitable for the laser cutter in Inkscape. 
+1. Use open-source data portals to find appropriate geospatial data. 
+2. Generate and edit vector contours from raster datasets in QGIS. 
+3. Create a bathymetric map of an area of your choice.
+4. Work comfortably with vector and raster data in QGIS.
+5. Generate and edit labels in QGIS.
+6. Use Inkscape to convert a DXF file into a SVG suitable for the laser cutter.
+7. Understand efficent laser cut formatting.  
 
 
  
