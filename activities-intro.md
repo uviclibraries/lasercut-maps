@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 
-Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1Mou13Jn0VUoK6b0tSHz_A-_r6-fHS5v87Mj9MGCBRcM/edit#slide=id.g43cf57a7c2_0_0){:target="_blank"}
+Please review the following [Introductory Slides.](https://docs.google.com/presentation/d/1Mou13Jn0VUoK6b0tSHz_A-_r6-fHS5v87Mj9MGCBRcM/edit#slide=id.g43cf57a7c2_0_0){:target="_blank"}
 
 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
