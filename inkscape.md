@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 ## Inkscape contour formatting 
 Open the Inkscape program and select *‘new document’* from the startup menu. From the document’s file menu, import your -150m DXF file.<br>
-<img src="images/is_open.png" style="width:450px;" alt="Inkscape file open">
+<img src="images/is_open.png" style="width:350px;" alt="Inkscape file open">
 <br>Ensure that scaling is set to *‘automatic to A4*’ and character encoding is UTF-8.<br>
 <img src="images/is_input.png" style="width:450px;" alt="Inkscape file parameters">
 <br>A warning will appear - this happens with every DXF file and will not affect your project. Click OK to load the file into the document. Move it so that the edges of the layer align with the edges of the document. Refer to your QGIS window for the correct scaling.<br> 
