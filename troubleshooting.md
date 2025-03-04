@@ -15,5 +15,4 @@ For raster data (bathymetry and elevation continious data layers), use the Add R
 <br><img src="images/vector_q.png" style="width:550px;" alt=" Add Vector Data"><br>
 <br> **I deleted something from a layer that I need!**
 Changes made to features in the QGIS project *do not* affect the original files. If you mis-edit, break, or otherwise make a file unusable, don't panic! Follow the steps above to re-add the layer to your project, then remove the accident layer from the project. <br> 
-<br> **
 <br> **Where'd my toolbar go?!** This doesn't happen often, but can be quite alarming. If Q is not displaying the top toolbar, save your project, close it entirely, and reopen it from the project file in your downloads.<br>
