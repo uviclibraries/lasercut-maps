@@ -17,9 +17,9 @@ To get started, download [this file of Indigenous place names](https://ftp.maps.
 <img src="images/points_select.png" style="width:550px;" alt="QGIS invert selection">
 <br>Invert the selection. Turn layer editing on for the placenames layer, delete all selected features, save the layer edits, and turn layer editing off again.
 Right-click the place names file from the layers pane and open the properties menu. Go to the *‘labels’* tab and select *‘single labels’* from the dropdown at the top. The value should default to *‘GEONAME’*. If not, change it over. You are welcome to experiment with fonts. However, it is recommended to keep the font size around 10. Ensure your font units are set to points, not mm. Go to the *‘Callouts’* tab and enable callouts.  Click *‘Apply*’ at the bottom of the window to visualize the changes.<br>
-<img src="images/font.png" style="width:300px;" alt="QGIS add labels">
+<img src="images/font.png" style="width:400px;" alt="QGIS add labels">
 <br>From the side panel, open the symbology menu. Change the points to be all black and approximately size 2.6. Click *‘OK’* to close the properties window.<br>
-<img src="images/symbol.png" style="width:300px;" alt="QGIS symbol editing">
+<img src="images/symbol.png" style="width:400px;" alt="QGIS symbol editing">
 <br>In order for the labels to be engraved successfully, they must all be on the 0m layer. From the top toolbar, select the label icon with the arrow. This allows for labels to be manually repositioned.<br>
 <img src="images/label_move.png" style="width:575px;" alt="QGIS move labels">
 <br>If a warning appears, click *‘OK’*. Move the text around until it is all contained on the 0m layer. It should resemble the example, where there is no overlap between contour lines and text.<br>
