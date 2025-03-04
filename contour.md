@@ -32,7 +32,10 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br>Unnecessary features can be deleted the same way the elevation lines above 0m were deleted (Toggle editing > Delete Selected) When you have all extraneous features removed, save all edits to the layer and switch editing off (the single pencil icon next to the save tool).<br>
 <br><img src="images/layer_save.png" style="width:450px;" alt="QGIS end editing"><br>
 <br>Now is a good time to save your project. <br>
-<br>Reopen the contour layer’s attribute table. Open the *‘select by attribute’* tool. Input **“ELEV” = 0**. With the selection made, right-click the layer and navigate to ‘save selected features as’. Change the format from an ESRI shapefile to an AutoCAD DXF. Open your project folder and add a new subfile. Title it 'design_finals'. Save the DXF layer here. A popup will appear after saving the file, asking if the DXF should be added to your QGIS project. Click ‘Add Layer’ to proceed. These layers are being added to the project file only for visualization purposes and will not need to be manipulated further.<br>
+<br>Reopen the contour layer’s attribute table. Open the *‘select by attribute’* tool. Input **“ELEV” = 0**.<br>
+<br><img src="images/select.png" style=width:300px;" alt="QGIS select by attribute tool"><br>
+
+With the selection made, right-click the layer and navigate to ‘save selected features as’. Change the format from an ESRI shapefile to an AutoCAD DXF. Open your project folder and add a new subfile. Title it 'design_finals'. Save the DXF layer here. A popup will appear after saving the file, asking if the DXF should be added to your QGIS project. Click ‘Add Layer’ to proceed. These layers are being added to the project file only for visualization purposes and will not need to be manipulated further.<br>
 <br><img src="images/dxf_save.png" style="width:450px;" alt="contours selected"><br>
 <br>Repeat this process for **“ELEV” = -50, -100, and -150**, remembering to clear the selection between groups. ***Name each file as the depth it shows (for example, 0m.dxf, 50m.dxf). Failure to do so will make subsequent instructions harder to understand.*** <br>
 <br><img src="images/deselect_att.png" style="width:450px;" alt="contours selected"><br>
