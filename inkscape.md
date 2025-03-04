@@ -15,11 +15,11 @@ Open the Inkscape program and select *‘new document’* from the startup menu.
 <br>When you have opened and formatted all your contour files in different Inkscape windows, look through them. At least one of your layers should have cut-off lines indicating the upper boundaries of the project file, like the example below. We will use these boundaries to define a consistent area for each layer of the project.<br>
 <img src="images/is_upper.png" style="width:450px;" alt="Project upper boundaries">
 <br>Navigate to the rectangle tool in Inkscape’s left-hand menu and use it to draw a rectangle around the edges of your project (click and drag . Use the cut-off lines as a guide for the top border. Ensure the rectangle’s fill and stroke settings are the same as the contour lines (0 fill, solid stroke, red value 255, line width 0.1 mm).<br>
-<img src="images/is_rect.png" style="width:450px;" alt="Inkscape rectangle tool">
+<img src="images/is_rect.png" style="width:350px;" alt="Inkscape rectangle tool">
 <br>Select the rectangle in the layers pane and copy it to your clipboard.<br>
-<img src="images/is_copy.png" style="width:450px;" alt="Inkscape copy tool">
+<img src="images/is_copy.png" style="width:350px;" alt="Inkscape copy tool">
 <br> Go into your other Inkscape windows and paste the rectangle into each of the files. Line up the bottom corners with the edges of the page. Now the layers are all the same size. When all layers include the border rectangle, open the File menu from the top left of the Inkscape window. Select *‘Save As*’ and save your layer as an .SVG file (the default file type for Inkscape). <br> 
-<img src="images/is_save.png" style="width:450px;" alt="Inkscape save file as"> <br>
+<img src="images/is_save.png" style="width:350px;" alt="Inkscape save file as"> <br>
 ## Inkscape placename formatting
 <br>With the 0m contour file open, use the *Import* tool to bring in the screenshot of the place names if you used them. If you used street data to create features for engraving, skip these steps. Ensure the image render mode is set to Smooth.<br>
 <img src="images/is_png.png" style="width:450px;" alt="Inkscape open PNG">
