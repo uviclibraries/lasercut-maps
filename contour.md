@@ -33,7 +33,7 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br><img src="images/layer_save.png" style="width:450px;" alt="QGIS end editing"><br>
 <br>Now is a good time to save your project. <br>
 <br>Reopen the contour layer’s attribute table. Open the *‘select by attribute’* tool. Input **“ELEV” = 0**.<br>
-<br><img src="images/select.png" style=width:300px;" alt="QGIS select by attribute tool"><br>
+<br><img src="images/select.png" style="width:350px;" alt="QGIS select tool"><br>
 
 With the selection made, right-click the layer and navigate to ‘save selected features as’. Change the format from an ESRI shapefile to an AutoCAD DXF. Open your project folder and add a new subfile. Title it 'design_finals'. Save the DXF layer here. A popup will appear after saving the file, asking if the DXF should be added to your QGIS project. Click ‘Add Layer’ to proceed. These layers are being added to the project file only for visualization purposes and will not need to be manipulated further.<br>
 <br><img src="images/dxf_save.png" style="width:450px;" alt="contours selected"><br>
