@@ -16,6 +16,6 @@ Please note that it is recommended that you complete the [Intro to Design with L
 <br> For Mac:<br>
 <br> <img src="images/q_install2.png" style = "width:560px;" alt="QGIS installer">
 
-- [Download Inkscape here](https://inkscape.org/release/0.92.4/windows/64-bit/){:target="_blank"}<br> 
+- [Download Inkscape here](https://inkscape.org/release/){:target="_blank"}<br> 
 <br> <img src="images/is_install.png" style="width:560px;" alt="Inkscape Installer"><br>
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
