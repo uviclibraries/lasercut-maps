@@ -36,3 +36,4 @@ parent: Workshop Activities
 <br>This is a good time to save your project. <br>
 <br><img src="images/raster_done.png" style="width:550px;" alt="coloured raster"><br>
 
+[NEXT STEP: Extract Vector Contours](contour.html){: .btn .btn-blue }
