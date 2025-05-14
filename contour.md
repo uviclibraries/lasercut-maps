@@ -43,4 +43,4 @@ With the selection made, right-click the layer and navigate to ‘save selected 
 <br><img src="images/contours_final.png" style="width:550px;" alt="contours selected"><br>
 <br>Now is a good time to save your project. 
 
-
+[NEXT STEP: Add Details for Engraving](engraving.html){: .btn .btn-blue }
