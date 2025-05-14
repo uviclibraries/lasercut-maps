@@ -13,15 +13,26 @@ parent: Workshop Activities
 <br><img src="images/raster_add.png" style="width:=450px;" alt="QGIS add raster"><br>
 <br>In the file explorer, select only the .TIF file, then click *‘Open’*. <br>
 <br><img src="images/add_cdem.png" style="width:450px;" alt="elevaton file"><br>
-<br>From the QGIS data manager, click *‘Add’*. The data will appear in the main window as a continuous black-and-white image. The legend to the left side shows that areas of higher elevation show as being lighter. The sample imagery has a maximum value of 1,478 metres and a minimum of 0 metres (sea level). **Right-click** the layer in the menu to rename it to ‘elevation’.<br>
+ - From the QGIS data manager, click *‘Add’*. The data will appear in the main window as a continuous black-and-white image. 
+- The legend to the left side shows that areas of higher elevation show as being lighter. The sample imagery has a maximum value of 1,478 metres and a minimum of 0 metres (sea level).
+-  **Right-click** the layer in the menu to rename it to ‘elevation’.<br>
 <br><img src="images/raster_rename.png" style="width:450px;" alt="QGIS file rename"><br>
-<br>Repeat the New Data steps to add your bathymetry dataset (only add the .TIFF file) to the project. Be sure you rename it to *‘bathymetry’*. If you get a popup asking about coordinate transformations, click ‘OK’. This is a good time to save your project. <br>
+- Repeat the New Data steps to add your bathymetry dataset (only add the .TIFF file) to the project. Be sure you rename it to *‘bathymetry’*.
+- If you get a popup asking about coordinate transformations, click ‘OK’.
+- This is a good time to save your project. <br>
 <br><img src="images/transform_ok.png" style="width:500px;" alt="QGIS coordinate system"><br>
-<br>The bathymetry dataset covers a much smaller area compared to the elevation dataset. To set them equal, navigate to the *‘Raster’* tab at the very top of the screen. Select *‘Extraction’*, then *‘Clip Raster by Extent’*.<br>
+<br>The bathymetry dataset covers a much smaller area compared to the elevation dataset.
+- To set them equal, navigate to the *‘Raster’* tab at the very top of the screen.
+- Select *‘Extraction’*, then *‘Clip Raster by Extent’*.<br>
 <br><img src="images/clip.png" style="width:450px;" alt="QGIS clip raster"><br>
-<br>Select the elevation data as the **input** layer. For the clipping extent, select *‘Calculate by Layer’*, then choose the bathymetry data.<br> 
+- Select the elevation data as the **input** layer.
+- For the clipping extent, select *‘Calculate by Layer’*, then choose the bathymetry data.<br> 
 <br><img src="images/clip2.png" style="width:450px;" alt="QGIS clip raster"><br>
-<br>No other inputs are needed. Click *‘Run’*. A new layer will appear in the project. **Right-click** the layer name and select *‘Export’* from the options that appear. Click *‘Save As’*. From the popup, select the three dots to the right of the file name to save it to your project folder. Keep all default specifications and name it ‘Elevation_Clip’. Click ‘OK’ at the bottom of the menu. This will save the data as a new file, instead of it existing as a temporary layer within the QGIS project. <br>
+- No other inputs are needed. Click *‘Run’*.
+- A new layer will appear in the project. **Right-click** the layer name and select *‘Export’* from the options that appear.
+- Click *‘Save As’*. From the popup, select the three dots to the right of the file name to save it to your project folder.
+- Keep all default specifications and name it ‘elevation_clip’.
+-  Click ‘OK’ at the bottom of the menu. This will save the data as a new file, instead of it existing as a temporary layer within the QGIS project. <br>
 <br><img src="images/saveas.png" style="width:500px;" alt="QGIS save file as"><br>
 <br>Note that the clipped elevation layer is overall lighter than the full elevation dataset. This is because it has a smaller range of values, but still displays the full shade range of the legend. Uncheck the box beside the unclipped elevation layer to see only your area of interest. It should look similar to the example below. Save your project again. <br>
 <br><img src="images/trimmed.png" style="width:500px;" alt="trimmed raster"><br>
