@@ -48,3 +48,5 @@ With your layers all formatted appropriately, the last step is to organize them 
 <br>Import the remaining SVG layers. Ensure they are the same size as the 0m layer. Arrange them on the template, leaving small gaps between the squares.<br>
 <img src="images/is_format.png" style="width:550px;" alt="Layer formatting">
 <br> When all your layers are arranged, save the SVG file as *“yourname_place”* or some similar title. 
+
+[NEXT STEP: Upload to the DSC](upload.html){: .btn .btn-blue }
