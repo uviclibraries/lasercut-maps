@@ -42,3 +42,4 @@ If you are creating a map that includes an urban area, you may be interested in 
 ## Congratulations! 
 You have finished the QGIS component of this tutorial and are well over halfway done. Save your project and minimize the QGIS window. 
 
+[NEXT STEP: Format Files in Inkscape](inkscape.html){: .btn .btn-blue }
