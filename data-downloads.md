@@ -23,3 +23,4 @@ When your files have downloaded, be sure to save them to an easily available fol
 <img src="images/elev_dl.png" style="width:400px;" alt="data download"> 
 
 Click on the tile that contains your region of interest. This tile will cover more area than the bathymetry data. It will be trimmed later. A download link will appear on the left side of your screen. Click it to access the elevation data. Save it to the same folder as your bathymetry data and unzip it. Renaming the resulting folder can make your files easier to navigate and work with. Now you are ready to work with the files in QGIS. 
+[NEXT STEP: Prepare an Image for Engraving](raster-data.html){: .btn .btn-blue }
