@@ -12,7 +12,7 @@ To get started, navigate to the [Canadian Hydrographic Service Bathymetric Data 
 - When you have decided on an area to map, **select its 10m grid square**.
 - From the **‘Attributes’** tab of the menu, ensure the **CHS NONNA - 10m layer** is selected. There is no cost to accessing the data.
 <img src="images/10m.gif" style="width:550px;" alt="10 meter grid"><br>
-- Click the **add to cart** button at the top left of the screen, then access your cart from the icon at the top right. Deselect all data formats from the menu, except **‘GeoTIFF’**. The GeoTIFF format embeds geospatial metadata into image files such as aerial photography, satellite imagery, and digitized maps so that they can be used in GIS applications.
+- Click the **add to cart** button at the top left of the screen, then access your cart from the icon at the top right. Deselect all data formats from the menu, except **‘GeoTIFF’**. The GeoTIFF format embeds geospatial metadata into image files such as aerial photography, satellite imagery, and digitized maps so that they can be used in GIS applications.<br>
 <img src="images/cart.png" style="width:400px;" alt="add files to cart"><br>
 <img src="images/cart2.png" style="width:400px;" alt="navigate cart"><br>
 - Click the **Next** button in the cart menu twice, then download your data.<br>
