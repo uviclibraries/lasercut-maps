@@ -16,7 +16,6 @@ To get started, navigate to the [Canadian Hydrographic Service Bathymetric Data 
 <img src="images/cart.png" style="width:400px;" alt="add files to cart"><br>
 <img src="images/cart2.png" style="width:400px;" alt="navigate cart"><br>
 - Click the **Next** button in the cart menu twice, then download your data.<br>
-<img src="images/10m.png" style="width:550px;" alt="10 meter grid"><br>
 When your files have downloaded, be sure to save them to an easily available folder on your desktop. <br>
 ***All files downloaded or created during this project MUST be saved to your computer's Downloads folder. QGIS cannot properly read files from other folders.***
 <br>Right-click the zipped folder and select *‘Extract all’* to access the files individually. Now go to the [Canadian elevation data portal](https://ftp.maps.canada.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html){:target="blank"}. Navigate to the area you have chosen to work with. Click the *‘Themes’* tab, then select *‘Elevation’*. Select the *Canadian Digital Elevation Model*. <br>
