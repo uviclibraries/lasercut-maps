@@ -13,6 +13,7 @@ To get started, navigate to the [Canadian Hydrographic Service Bathymetric Data 
 Data is reliably available for the East and West coasts, as well as for the Great Lakes.
 - When you have decided on an area to map, **select its 10m grid square**.
 - From the **‘Attributes’** tab of the menu, ensure the **CHS NONNA - 10m layer** is selected. There is no cost to accessing the data.
+<img src="images/10m.gif" style = "width: 400px;"
 - Click the **add to cart** button at the top left of the screen, then access your cart from the icon at the top right. Deselect all data formats from the menu, except **‘GeoTIFF’**. The GeoTIFF format embeds geospatial metadata into image files such as aerial photography, satellite imagery, and digitized maps so that they can be used in GIS applications.
 - Click the **Next** button in the cart menu twice, then download your data.<br>
 <img src="images/download.png" style="width:250px;" alt="data download">
