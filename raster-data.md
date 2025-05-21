@@ -8,11 +8,11 @@ parent: Workshop Activities
 ## Raster Data Editing
 **If you are having trouble with your QGIS project file, please check the Troubleshooting page for some common issues and solutions.**<br>
 <br> [Open QGIS 3.32 Desktop.](https://qgis.org/download/){:target="_blank"} From the *‘Project’* menu, select *‘Save As’*. Navigate to your project file and save the QGIS project in the same folder as the rest of your data. Name it *'yourname_map'*.<br>
-<br><img src="images/q_save.png" style="width:450px;" alt="QGIS file save"><br>
+<br><img src="images/q_save.png" style="width:450px;" alt="QGIS file save"><br><br>
 <br>Now that the project is saved, you can add the files you downloaded earlier. To add data, open the Data Source Manager (the icon of three coloured squares). 
-<br><img src="images/raster_add.png" style="width:=450px;" alt="QGIS add raster"><br>
+<img src="images/add.png" style="width:=450px;" alt="QGIS add raster"><br>
 From the popup, select *‘Raster’* from the left-hand menu. Click the three dots on the far right to navigate to the elevation data in your folder. <br>
-<br><img src="images/add.png" style="width:=450px;" alt="QGIS add raster"><br>
+<br><img src="images/raster_add.png" style="width:=450px;" alt="QGIS add raster"><br>
 <br>In the file explorer, select only the .TIF file, then click *‘Open’*. <br>
 <br><img src="images/add_cdem.png" style="width:450px;" alt="elevaton file"><br>
  - From the QGIS data manager, click *‘Add’*. The data will appear in the main window as a continuous black-and-white image. 
