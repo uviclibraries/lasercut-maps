@@ -12,12 +12,12 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br><img src="images/contour2.png" style="width:450px;" alt="QGIS contour inputs"><br>
 <br>Uncheck the merged raster layer in the layers pane to view only the line contours.<br>
 <br><img src="images/contour3.png" style="width:550px;" alt="contours"><br>
-- >Before making any other edits, right-click the contour layer you generated in the layers menu and save it to your project files
-  >**(Export -> Save Features As)**.
+- Before making any other edits, right-click the contour layer you generated in the layers menu and save it to your project files.
+- **(Export -> Save Features As)**.
 - It should default to saving as an ESRI shapefile (.shp)
-- >As we are focusing on bathymetry, we need to remove all contour lines above 0m.
-  >To do so, **right-click** the *‘contours’* layer in the contents pane.
-  >From the menu, select *‘open attribute table’*. <br>
+- As we are focusing on bathymetry, we need to remove all contour lines above 0m.
+- To do so, **right-click** the *‘contours’* layer in the contents pane.
+- From the menu, select *‘open attribute table’*. <br>
 <br><img src="images/attribute.png" style="width:450px;" alt="QGIS open attribute table"><br>
 <br> With the attribute table open, navigate to the *‘Select feature by expression’* tool at the top of the page.<br>
 <br><img src="images/select.png" style="width:450px;" alt="QGIS select features by expression"><br>
