@@ -12,7 +12,7 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br><img src="images/contour2.png" style="width:450px;" alt="QGIS contour inputs"><br>
 <br>Uncheck the merged raster layer in the layers pane to view only the line contours.<br>
 <br><img src="images/contour3.png" style="width:550px;" alt="contours"><br>
-<br>Before making any other edits, right-click the contour layer you generated  in the layers menu and save it to your project files **(Export -> Save Features As)**. It should default to saving as an ESRI shapefile (.shp).<br>
+<br>Before making any other edits, right-click the contour layer you generated in the layers menu and save it to your project files **(Export -> Save Features As)**. It should default to saving as an ESRI shapefile (.shp).<br>
 <br>As we are focusing on bathymetry, we need to remove all contour lines above 0m. To do so, **right-click** the *‘contours’* layer in the contents pane. From the menu, select *‘open attribute table’*. <br>
 <br><img src="images/attribute.png" style="width:450px;" alt="QGIS open attribute table"><br>
 <br> With the attribute table open, navigate to the *‘Select feature by expression’* tool at the top of the page.<br>
@@ -35,11 +35,17 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br>Reopen the contour layer’s attribute table. Open the *‘select by attribute’* tool. Input **“ELEV” = 0**.<br>
 <br><img src="images/select.png" style="width:350px;" alt="QGIS select tool"><br>
 
-With the selection made, right-click the layer and navigate to ‘save selected features as’. Change the format from an ESRI shapefile to an AutoCAD DXF. Open your project folder and add a new subfolder. Title it 'design_finals'. Save the DXF layer here. A popup will appear after saving the file, asking if the DXF should be added to your QGIS project. Click ‘Add Layer’ to proceed. These layers are being added to the project file only for visualization purposes and will not need to be manipulated further.<br>
+- With the selection made, right-click the layer and navigate to ‘save selected features as’.
+- Change the format from an ESRI shapefile to an AutoCAD DXF.
+- Open your project folder and add a new subfolder. Title it 'design_finals'. Save the DXF layer here.
+- A popup will appear after saving the file, asking if the DXF should be added to your QGIS project. Click ‘Add Layer’ to proceed.
+- These layers are being added to the project file only for visualization purposes and will not need to be manipulated further.<br>
 <br><img src="images/dxf_save.png" style="width:450px;" alt="contours selected"><br>
 <br>Repeat this process for **“ELEV” = -50, -100, and -150**, remembering to clear the selection between groups. ***Name each file as the depth it shows (for example, 0m.dxf, 50m.dxf). Failure to do so will make subsequent instructions harder to understand.*** <br>
 <br><img src="images/deselect_att.png" style="width:450px;" alt="contours selected"><br>
-<br>If there are no features available for a depth of -150, work backwards by 10m increments until features are selected successfully. If you would like to experiment with selecting different depth measurements, you are welcome to. Ideally, limit it to three or four layers plus the 0m layer. Deselect the original contours from the layers menu to see what the extracted layers look like on their own. Here is my example. <br>
+- If there are no features available for a depth of -150, work backwards by 10m increments until features are selected successfully.
+- If you would like to experiment with selecting different depth measurements, you are welcome to. Ideally, limit it to three or four layers plus the 0m layer.
+-  Deselect the original contours from the layers menu to see what the extracted layers look like on their own. Here is my example. <br>
 <br><img src="images/contours_final.png" style="width:550px;" alt="contours selected"><br>
 <br>Now is a good time to save your project. 
 
