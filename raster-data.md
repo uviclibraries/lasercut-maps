@@ -44,7 +44,13 @@ From the popup, select *‘Raster’* from the left-hand menu. Click the three d
 <br><img src="images/merge3.png" style="width:450px;" alt="QGIS merge raster"><br>
 <br>Select your ‘bathymetry’ and ‘elevation_clip’ layers, and drag the elevation layer such that it is at the **top of the order** if it isn’t there already.<br>
 <br><img src="images/merge2.png" style="width:450px;" alt="QGIS merge raster"><br>
-<br>Click the *‘Run’* button at the bottom of the window. Save the new raster layer to your files by right-clicking it in the layers menu and selecting *‘Export’*, then *‘Save As’*. Name the layer *‘Merged_Raster’*. Turn visibility off for all other layers. To help visualize the new merged raster, right-click it in the menu and select the *‘Properties’* tab at the bottom of the pop-up menu. From the window that opens, go to the *‘Symbology’* tab. Change the render type to ‘singleband pseudocolour’. Experiment with different colour options to find one that helps you ‘read’ the map. I will be using Viridis. To test colour schemes without closing out of the menu, click *‘apply’* at the bottom of the window. When you are happy with the colour ramp, click *‘OK’* to close the menu. <br>
+- Click the *‘Run’* button at the bottom of the window.
+- Save the new raster layer to your files by right-clicking it in the layers menu and selecting *‘Export’*, then *‘Save As’*.
+- Name the layer *‘Merged_Raster’*. Turn visibility off for all other layers.
+- To help visualize the new merged raster, right-click it in the menu and select the *‘Properties’* tab at the bottom of the pop-up menu.
+-  From the window that opens, go to the *‘Symbology’* tab. Change the render type to ‘singleband pseudocolour’.
+-  Experiment with different colour options to find one that helps you ‘read’ the map. I will be using Viridis.
+-  To test colour schemes without closing out of the menu, click *‘apply’* at the bottom of the window. When you are happy with the colour ramp, click *‘OK’* to close the menu. <br>
 <br><img src="images/symbol.png" style="width:450px;" alt="QGIS edit symbology"><br>
 <br>This is a good time to save your project. <br>
 <br><img src="images/raster_done.png" style="width:550px;" alt="coloured raster"><br>
