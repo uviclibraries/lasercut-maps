@@ -40,9 +40,9 @@ From the popup, select *‘Raster’* from the left-hand menu. Click the three d
 <br><img src="images/trimmed.png" style="width:500px;" alt="trimmed raster"><br>
 <br>With the elevation layer trimmed to match the bathymetry, we can merge the two raster layers together. From the toolbar at the top of your window, select *‘Raster’*, then the *‘Miscellaneous’* menu. From there, click *‘Merge’* to open the tool. <br>
 <br><img src="images/merge.png" style="width:450px;" alt="QGIS merge raster"><br>
-<br>From the *‘Input Layers’* bar, click the three dots on the right to open the layer selection. Change the output data type to *‘Float64’*. **Leave all other default parameters**. <br>
+<br>From the *‘Input Layers’* bar, click the three dots on the right to open the layer selection.Select your ‘bathymetry’ and ‘elevation_clip’ layers, and drag the elevation layer such that it is at the **top of the order** if it isn’t there already.<br> 
 <br><img src="images/merge3.png" style="width:450px;" alt="QGIS merge raster"><br>
-<br>Select your ‘bathymetry’ and ‘elevation_clip’ layers, and drag the elevation layer such that it is at the **top of the order** if it isn’t there already.<br>
+<br> Change the output data type to *‘Float64’*. **Leave all other default parameters**. <br>
 <br><img src="images/merge2.png" style="width:450px;" alt="QGIS merge raster"><br>
 - Click the *‘Run’* button at the bottom of the window.
 - Save the new raster layer to your files by right-clicking it in the layers menu and selecting *‘Export’*, then *‘Save As’*.
