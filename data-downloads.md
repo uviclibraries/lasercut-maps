@@ -24,7 +24,8 @@ Now go to the [Canadian elevation data portal](https://ftp.maps.canada.ca/pub/nr
 - Click the *‘Themes’* tab, then select *‘Elevation’*.
 - Select the *Canadian Digital Elevation Model*. <br>
 <img src="images/elev.gif" style="width:400px;" alt="data download"> 
-
-Click on the tile that contains your region of interest. This tile will cover more area than the bathymetry data. It will be trimmed later. A download link will appear on the left side of your screen. Click it to access the elevation data. Save it to the same folder as your bathymetry data and unzip it. Renaming the resulting folder can make your files easier to navigate and work with. Now you are ready to work with the files in QGIS. 
+Click on the tile that contains your region of interest.
+<img src="images/elev_get.gif" style="width:400px;" alt="data download"> 
+This tile will cover more area than the bathymetry data. It will be trimmed later. A download link will appear on the left side of your screen. Click it to access the elevation data. Save it to the same folder as your bathymetry data and unzip it. Renaming the resulting folder can make your files easier to navigate and work with. Now you are ready to work with the files in QGIS. 
 
 [NEXT STEP: Edit Raster Data](raster-data.html){: .btn .btn-blue }
