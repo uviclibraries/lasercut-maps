@@ -30,7 +30,7 @@ With the merged raster appropriately coloured, we can generate elevation contour
 <br>From the toolbar at the top of the window, click *‘delete selected’*. Confirm your selection in the pop-up. If your file contains outlying squares like these:<br>
 <br><img src="images/outliers.png" style="width:550px;" alt="QGIS delete selected features"><br>
 <br>They will need to be removed, as they will complicate the rest of the data editing process. If there are no outliers, proceed to the *‘saving edits’* step. If your dataset contains outliers,  keep layer editing enabled, open the ‘select features’ menu, and open the ‘select by freehand’ tool.<br>
-<br><img src="images/freehand.png" style="width:450px;" alt="QGIS select by freehand"><br>
+<br><img src="images/delete.gif" style="width:450px;" alt="QGIS select by freehand"><br>
 <br>Work slowly to ensure necessary features are not selected accidentally. If that happens, click the *‘Remove selection’* tool to clear all features from selection. <br>
 <br><img src="images/remove.png" style="width:450px;" alt="QGIS remove selection"><br>
 <br>Unnecessary features can be deleted the same way the elevation lines above 0m were deleted (Toggle editing > Delete Selected) When you have all extraneous features removed, save all edits to the layer and switch editing off (the single pencil icon next to the save tool).<br>
