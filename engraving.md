@@ -20,9 +20,9 @@ Right-click the place names file from the layers pane and open the properties me
 <img src="images/font.png" style="width:400px;" alt="QGIS add labels">
 <br>From the side panel, open the symbology menu. Change the points to be all black and approximately size 2.6. Click *‘OK’* to close the properties window.<br>
 <img src="images/label.png" style="width:400px;" alt="QGIS symbol editing">
-<br>In order for the labels to be engraved successfully, they must all be on the 0m layer. From the top toolbar, select the label icon with the arrow. This allows for labels to be manually repositioned.<br>
+<br>In order for the labels to be engraved successfully, they cannot be on multiple layers. From the top toolbar, select the label icon with the arrow. This allows for labels to be manually repositioned.<br>
 <img src="images/label_move.png" style="width:575px;" alt="QGIS move labels">
-<br>If a warning appears, click *‘OK’*. Move the text around until it is all contained on the 0m layer. It should resemble the example, where there is no overlap between contour lines and text.<br>
+<br>If a warning appears, click *‘OK’*. Move the text around until each label has no overlap with the contour lines. It should resemble the example image.<br>
 <img src="images/format.png" style="width:550px;" alt="formatted layer">
 <br>Turn off all contour layers to see just the labels and points. Take a screenshot including all labels and points, like the example below. Save this file as a .png to your project folder.<br>
 <img src="images/label_only.png" style="width:550px;" alt="QGIS screenshot example">
