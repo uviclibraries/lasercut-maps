@@ -8,8 +8,8 @@ nav_order: 10
 ## Laser Cut Maps Resources
 [More GIS information & geospatial data](https://www.uvic.ca/library/locations/home/map/gis/index.php)<br>
 <br>[QGIS training manual](https://docs.qgis.org/3.34/en/docs/training_manual/index.html)<br>
-<br> Want a quicker way to make a contour map? Check out [this generator](https://zrnnn.github.io/topomapper/)! 
-
+<br> Want a quicker way to make a contour map? Check out [this generator](https://zrnnn.github.io/topomapper/)!<br> 
+<br><img src="images/topomapper.png" style="width:575px;" alt="Contours of Victoria">
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
